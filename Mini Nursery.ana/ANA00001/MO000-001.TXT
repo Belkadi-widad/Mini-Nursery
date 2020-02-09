@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Enfant		NFI		new file
+Parent		NFI		new file
+Enfant_Parent		NFI		new file
+Enfant		NWL	Enfant (EnfantID) and Enfant_Parent (EnfantID)	New link between Enfant (EnfantID) and Enfant_Parent (EnfantID) files
+Parent		NWL	Parent (ParentID) and Enfant_Parent (ParentID)	New link between Parent (ParentID) and Enfant_Parent (ParentID) files

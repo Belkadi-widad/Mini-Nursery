@@ -1,0 +1,5 @@
+//MO049-050.TXT ANA00049 TO ANA00050
+		FIC-	Note	Note file deleted
+Activité		DEL	Activité (ActivitéID) and Note (ActivitéID)	Link deleted between Activité (ActivitéID) and Note (ActivitéID) files
+Observation		DEL	Observation (ObservationID) and Note (ObservationID)	Link deleted between Observation (ObservationID) and Note (ObservationID) files
+Tuteur		DEL	Tuteur (TuteurID) and Observation (TuteurID)	Link deleted between Tuteur (TuteurID) and Observation (TuteurID) files

@@ -1,0 +1,2 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Contrainte_Enfant_ContratEnfant		MCL	1,1->0,1	

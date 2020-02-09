@@ -1,0 +1,5 @@
+//MO042-043.TXT ANA00042 TO ANA00043
+ContratEnfant	Tarif_heure	CLE-*		Tarif_heure item is no longer key
+Fiche_présence		NFI		new file
+Enfant		NWL	Enfant (EnfantID) and Fiche_présence (EnfantID)	New link between Enfant (EnfantID) and Fiche_présence (EnfantID) files
+Facture		NWL	Facture (FactureID) and Fiche_présence (FactureID)	New link between Facture (FactureID) and Fiche_présence (FactureID) files

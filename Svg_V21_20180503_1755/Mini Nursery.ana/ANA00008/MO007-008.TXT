@@ -1,0 +1,8 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Enfant		TAR	723	new record size: 723
+Enfant	EvenementID	RUB+		EvenementID is a new key
+Tuteur		TAR	49	new record size: 49
+Tuteur	EvenementID	RUB+		EvenementID is a new key
+Evenement		NFI		new file
+Evenement		NWL	Evenement (EvenementID) and Enfant (EvenementID)	New link between Evenement (EvenementID) and Enfant (EvenementID) files
+Evenement		NWL	Evenement (EvenementID) and Tuteur (EvenementID)	New link between Evenement (EvenementID) and Tuteur (EvenementID) files

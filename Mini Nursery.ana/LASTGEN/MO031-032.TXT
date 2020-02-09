@@ -1,0 +1,9 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Enfant	_9ismID	RUB+		_9ismID is a new key
+Enfant	_9ismID	RUB-		key _9ismID deleted
+Activité	_9ismID	RUB+		_9ismID is a new key
+Activité	_9ismID	RUB-		key _9ismID deleted
+_9ism		NWL	_9ism (_9ismID) and Enfant (_9ismID)	New link between _9ism (_9ismID) and Enfant (_9ismID) files
+_9ism		NWL	_9ism (_9ismID) and Activité (_9ismID)	New link between _9ism (_9ismID) and Activité (_9ismID) files
+_9ism		DEL	_9ism (_9ismID) and Enfant (_9ismID)	Link deleted between _9ism (_9ismID) and Enfant (_9ismID) files
+_9ism		DEL	_9ism (_9ismID) and Activité (_9ismID)	Link deleted between _9ism (_9ismID) and Activité (_9ismID) files

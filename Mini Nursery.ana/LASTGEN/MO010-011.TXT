@@ -1,0 +1,4 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+_9ism		TAR	78	new record size: 78
+_9ism	minAge	CNW	1-byte unsigned integer$String	new type for minAge item: 1-byte unsigned integer
+_9ism	maxAge	CNW	1-byte unsigned integer$String	new type for maxAge item: 1-byte unsigned integer

@@ -1,0 +1,15 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Enfant		TAR	541	new record size: 541
+Enfant	Prenom_père	RUB+		Prenom_père is a new item
+Enfant	Nom_mère	RUB+		Nom_mère is a new item
+Enfant	Prenom_mère	RUB+		Prenom_mère is a new item
+Enfant	Adresse1	RUB+		Adresse1 is a new item
+Enfant	Adresse2	RUB+		Adresse2 is a new item
+Enfant	Email	RUB+		Email is a new item
+Enfant	Numtel1	RUB+		Numtel1 is a new item
+Enfant	Numtel2	RUB+		Numtel2 is a new item
+Enfant	Sexe	RUB+		Sexe is a new item
+Enfant		FIC-	Parent	Parent file deleted
+Enfant		FIC-	Enfant_Parent	Enfant_Parent file deleted
+Enfant		DEL	Enfant (EnfantID) and Enfant_Parent (EnfantID)	Link deleted between Enfant (EnfantID) and Enfant_Parent (EnfantID) files
+Parent		DEL	Parent (ParentID) and Enfant_Parent (ParentID)	Link deleted between Parent (ParentID) and Enfant_Parent (ParentID) files

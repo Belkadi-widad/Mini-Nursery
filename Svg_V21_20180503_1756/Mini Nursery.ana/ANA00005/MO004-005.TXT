@@ -1,0 +1,5 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Compte		NFI		new file
+Tuteur		NFI		new file
+Compte		NWL	Compte (CompteID) and Tuteur (CompteID)	New link between Compte (CompteID) and Tuteur (CompteID) files
+Compte		FRN		

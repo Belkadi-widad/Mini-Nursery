@@ -1,0 +1,19 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Enfant		TAR	715	new record size: 715
+Enfant	_9ismID	RUB+		_9ismID is a new key
+Enfant	ObservationID	RUB+		ObservationID is a new key
+Tuteur		TAR	41	new record size: 41
+Tuteur	EmployéID	RUB+		EmployéID is a new key
+Tuteur	_9ismID	RUB+		_9ismID is a new key
+Tuteur	Nom_tut	RUB-		item Nom_tut deleted
+Employé		NFI		new file
+_9ism		NFI		new file
+Observation		NFI		new file
+Note		NFI		new file
+Activité		NFI		new file
+Employé		NWL	Employé (EmployéID) and Tuteur (EmployéID)	New link between Employé (EmployéID) and Tuteur (EmployéID) files
+_9ism		NWL	_9ism (_9ismID) and Tuteur (_9ismID)	New link between _9ism (_9ismID) and Tuteur (_9ismID) files
+_9ism		NWL	_9ism (_9ismID) and Enfant (_9ismID)	New link between _9ism (_9ismID) and Enfant (_9ismID) files
+Activité		NWL	Activité (ActivitéID) and Note (ActivitéID)	New link between Activité (ActivitéID) and Note (ActivitéID) files
+Observation		NWL	Observation (ObservationID) and Note (ObservationID)	New link between Observation (ObservationID) and Note (ObservationID) files
+Observation		NWL	Observation (ObservationID) and Enfant (ObservationID)	New link between Observation (ObservationID) and Enfant (ObservationID) files

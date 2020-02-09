@@ -1,0 +1,5 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+Enfant		TAR	782	new record size: 782
+Enfant	Fiche_présenceID	RUB+		Fiche_présenceID is a new key
+Fiche_présence		NWL	Fiche_présence (Fiche_présenceID) and Enfant (Fiche_présenceID)	New link between Fiche_présence (Fiche_présenceID) and Enfant (Fiche_présenceID) files
+Enfant		DEL	Enfant (EnfantID) and Fiche_présence (EnfantID)	Link deleted between Enfant (EnfantID) and Fiche_présence (EnfantID) files

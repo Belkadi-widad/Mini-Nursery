@@ -1,0 +1,3 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Enfant		TAR	699	new record size: 699
+Enfant	Photo	RUB+		Photo is a new item

@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Enfant		TAR	774	nouvelle taille enregistrement : 774
+Enfant	nom_classe	RUB+		nom_classe est une nouvelle rubrique

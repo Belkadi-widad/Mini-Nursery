@@ -1,0 +1,5 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Evenement		TAR	189	nouvelle taille enregistrement : 189
+Evenement	DATEdebut_eve	RUB+		DATEdebut_eve est une nouvelle clé
+Evenement	DATEFIN_eve	RUB+		DATEFIN_eve est une nouvelle clé
+repas		NFI		nouveau fichier

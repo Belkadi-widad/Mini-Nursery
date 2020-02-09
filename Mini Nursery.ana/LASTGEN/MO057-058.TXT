@@ -1,0 +1,7 @@
+//MO057-058.TXT ANA00057 TO ANA00058
+ContratEnfant	Nom_enf	RUB+		Nom_enf is a new item
+ContratEnfant	Prenom1_Enf	RUB+		Prenom1_Enf is a new item
+ContratEnfant	nom_classe	RUB+		nom_classe is a new item
+ContratEnfant	nom_classe	RUB-		item nom_classe deleted
+ContratEnfant	Nom_enf	RUB-		item Nom_enf deleted
+ContratEnfant	Prenom1_Enf	RUB-		item Prenom1_Enf deleted

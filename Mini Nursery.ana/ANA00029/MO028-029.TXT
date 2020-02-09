@@ -1,0 +1,4 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Evenement		TAR	292	new record size: 292
+Evenement	Libellé_eve	RUB+		Libellé_eve is a new item
+Evenement	Contenu_eve	RUB+		Contenu_eve is a new item

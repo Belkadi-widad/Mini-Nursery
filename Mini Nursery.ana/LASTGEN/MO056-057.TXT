@@ -1,0 +1,3 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+Enfant		NWL	Enfant (EnfantID) and ContratEnfant (EnfantID)	New link between Enfant (EnfantID) and ContratEnfant (EnfantID) files
+Enfant		DEL	Enfant (EnfantID) and ContratEnfant (EnfantID)	Link deleted between Enfant (EnfantID) and ContratEnfant (EnfantID) files

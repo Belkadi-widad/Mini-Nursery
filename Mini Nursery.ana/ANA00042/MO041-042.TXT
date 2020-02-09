@@ -1,0 +1,5 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+ContratEnfant		TAR	102	new record size: 102
+ContratEnfant	FactureID	RUB+		FactureID is a new key
+Facture		NWL	Facture (FactureID) and ContratEnfant (FactureID)	New link between Facture (FactureID) and ContratEnfant (FactureID) files
+ContratEnfant		DEL	ContratEnfant (IDContratEnfant) and Facture (IDContratEnfant)	Link deleted between ContratEnfant (IDContratEnfant) and Facture (IDContratEnfant) files

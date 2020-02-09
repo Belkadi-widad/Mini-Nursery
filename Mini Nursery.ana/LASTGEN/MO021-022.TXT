@@ -1,0 +1,4 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Activité		TAR	153	new record size: 153
+Activité	_9ismID	RUB+		_9ismID is a new key
+_9ism		NWL	_9ism (_9ismID) and Activité (_9ismID)	New link between _9ism (_9ismID) and Activité (_9ismID) files

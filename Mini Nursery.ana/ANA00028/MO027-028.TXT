@@ -1,0 +1,11 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Constraint_Utilisateur_Tuteur		MCL	1,n->0,n	
+Constraint_Utilisateur_Tuteur		MCL	1,1->0,1	
+Constraint__9ism_Tuteur		MCL	1,1->0,1	
+Constraint_Activité_Note		MCL	1,1->0,1	
+Constraint_Note_Observation		MCL	1,n->0,n	
+Constraint_Note_Observation		MCL	1,1->0,1	
+Constraint_Observation_Enfant		MCL	1,1->0,1	
+Constraint_Tuteur_Evenement		MCL	1,n->0,n	
+Contrainte_Enfant_ContratEnfant		MCL	1,1->0,1	
+Constraint_Activité__9ism		MCL	1,1->0,1	

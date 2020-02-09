@@ -1,0 +1,4 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+ContratEnfant	Tarif_heure	CLEN*		Tarif_heure item is now key
+Facture		NFI		new file
+ContratEnfant		NWL	ContratEnfant (IDContratEnfant) and Facture (IDContratEnfant)	New link between ContratEnfant (IDContratEnfant) and Facture (IDContratEnfant) files

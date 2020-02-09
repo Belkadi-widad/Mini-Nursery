@@ -1,0 +1,3 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+Observation		TAR	92	new record size: 92
+Observation	note	RUB+		note is a new item

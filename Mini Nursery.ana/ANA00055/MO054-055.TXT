@@ -1,0 +1,5 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+ContratEnfant		TAR	248	new record size: 248
+ContratEnfant	Prenom1_Enf	RUB+		Prenom1_Enf is a new item
+ContratEnfant	Nom_enf	RUB+		Nom_enf is a new item
+ContratEnfant	nom_classe	RUB+		nom_classe is a new item

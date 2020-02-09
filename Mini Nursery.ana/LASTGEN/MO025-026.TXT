@@ -1,0 +1,6 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Tuteur		TAR	49	nouvelle taille enregistrement : 49
+Tuteur	Nom_emp	RUB-		la clé Nom_emp est supprimée
+Activité		TAR	164	nouvelle taille enregistrement : 164
+Activité	heureDebut	RUB+		heureDebut est une nouvelle rubrique
+Activité	heureFin	RUB+		heureFin est une nouvelle rubrique

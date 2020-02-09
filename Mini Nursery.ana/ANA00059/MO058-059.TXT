@@ -1,0 +1,6 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+ContratEnfant		TAR	102	new record size: 102
+ContratEnfant	Photo	RUB+		Photo is a new item
+ContratEnfant	Nom_enf	RUB-		item Nom_enf deleted
+ContratEnfant	Prenom1_Enf	RUB-		item Prenom1_Enf deleted
+ContratEnfant	nom_classe	RUB-		item nom_classe deleted

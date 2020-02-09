@@ -1,0 +1,9 @@
+//MO051-052.TXT ANA00051 TO ANA00052
+Enfant_Evenement		NFI		new file
+Employé_Evenement		NFI		new file
+Enfant		NWL	Enfant (EnfantID) and Enfant_Evenement (EnfantID)	New link between Enfant (EnfantID) and Enfant_Evenement (EnfantID) files
+Employé		NWL	Employé (EmployéID) and Employé_Evenement (EmployéID)	New link between Employé (EmployéID) and Employé_Evenement (EmployéID) files
+Evenement		NWL	Evenement (EvenementID) and Enfant_Evenement (EvenementID)	New link between Evenement (EvenementID) and Enfant_Evenement (EvenementID) files
+Evenement		NWL	Evenement (EvenementID) and Employé_Evenement (EvenementID)	New link between Evenement (EvenementID) and Employé_Evenement (EvenementID) files
+Evenement		DEL	Evenement (EvenementID) and Enfant (EvenementID)	Link deleted between Evenement (EvenementID) and Enfant (EvenementID) files
+Evenement		DEL	Evenement (EvenementID) and Tuteur (EvenementID)	Link deleted between Evenement (EvenementID) and Tuteur (EvenementID) files

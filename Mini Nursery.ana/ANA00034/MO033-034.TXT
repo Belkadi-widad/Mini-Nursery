@@ -1,0 +1,4 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+ContratEnfant		TAR	94	new record size: 94
+ContratEnfant	nbr_heures_sem	RUB-		item nbr_heures_sem deleted
+ContratEnfant	nbr_heures_mois	RUB-		item nbr_heures_mois deleted

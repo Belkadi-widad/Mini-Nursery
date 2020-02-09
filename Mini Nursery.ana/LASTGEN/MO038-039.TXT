@@ -1,0 +1,11 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Observation		TAR	41	new record size: 41
+Observation	MatiéreID	RUB+		MatiéreID is a new key
+Observation	TuteurID	RUB+		TuteurID is a new key
+Observation	EnfantID	RUB+		EnfantID is a new key
+Matiére		NFI		new file
+Matiére		FIC-	Module	Module file deleted
+Enfant		NWL	Enfant (EnfantID) and Observation (EnfantID)	New link between Enfant (EnfantID) and Observation (EnfantID) files
+Matiére		NWL	Matiére (MatiéreID) and Observation (MatiéreID)	New link between Matiére (MatiéreID) and Observation (MatiéreID) files
+Tuteur		NWL	Tuteur (TuteurID) and Observation (TuteurID)	New link between Tuteur (TuteurID) and Observation (TuteurID) files
+Observation		DEL	Observation (ObservationID) and Enfant (ObservationID)	Link deleted between Observation (ObservationID) and Enfant (ObservationID) files

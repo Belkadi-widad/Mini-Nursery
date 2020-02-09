@@ -1,0 +1,4 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+repas		TAR	86	new record size: 86
+repas	DATEDEBUT_rep	RUB+		DATEDEBUT_rep is a new item
+repas	DATEFIN_rep	RUB+		DATEFIN_rep is a new item

@@ -1,0 +1,3 @@
+//MO063-064.TXT ANA00063 TO ANA00064
+Enfant		TAR	832	nouvelle taille enregistrement : 832
+Enfant	Sexe	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique Sexe a pour nouveau type Chaîne

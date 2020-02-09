@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+_9ism		TAR	178	new record size: 178
+_9ism	minAge	CNW	String$4-byte integer	new type for minAge item: String
+_9ism	maxAge	CNW	String$4-byte integer	new type for maxAge item: String

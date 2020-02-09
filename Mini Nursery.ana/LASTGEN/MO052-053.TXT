@@ -1,0 +1,3 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+Evenement		TAR	342	new record size: 342
+Evenement	Type	CNW	String$1-byte unsigned integer	new type for Type item: String

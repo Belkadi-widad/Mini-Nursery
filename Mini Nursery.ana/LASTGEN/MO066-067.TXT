@@ -1,0 +1,3 @@
+//MO066-067.TXT ANA00066 TO ANA00067
+intermed2		TAR	21	nouvelle taille enregistrement : 21
+intermed2	valeur	CNW	Entier sur 4 octets$Chaîne	la rubrique valeur a pour nouveau type Entier sur 4 octets

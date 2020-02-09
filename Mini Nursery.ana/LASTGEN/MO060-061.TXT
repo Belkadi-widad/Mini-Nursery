@@ -1,0 +1,6 @@
+//MO060-061.TXT ANA00060 TO ANA00061
+Tuteur		TAR	143	new record size: 143
+Tuteur	nomutilisateur	RUB+		nomutilisateur is a new item
+Tuteur	motDePasse	RUB+		motDePasse is a new item
+intermédiaire		NFI		new file
+Tuteur	nomutilisateur	RRN		

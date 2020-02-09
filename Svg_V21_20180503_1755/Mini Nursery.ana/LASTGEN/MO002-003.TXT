@@ -1,0 +1,5 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Enfant		TAR	691	new record size: 691
+Enfant	regim_alim	CNW	String$Boolean	new type for regim_alim item: String
+Enfant	Maladies	CNW	String$Boolean	new type for Maladies item: String
+Enfant	Recomandations	CNW	String$Boolean	new type for Recomandations item: String

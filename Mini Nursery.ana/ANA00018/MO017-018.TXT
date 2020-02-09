@@ -1,0 +1,8 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Activité		TAR	145	nouvelle taille enregistrement : 145
+Activité	lib_activité	NNR	Nom_activité	ATTENTION : la rubrique Nom_activité a pour nouveau nom lib_activité
+Activité	TuteurID	RUB+		TuteurID est une nouvelle clé
+Activité	dateDEBUT_act	RUB+		dateDEBUT_act est une nouvelle clé
+Activité	datefin_Act	RUB+		datefin_Act est une nouvelle clé
+Activité	contenu_Act	RUB+		contenu_Act est une nouvelle rubrique
+Tuteur		NWL	Tuteur (TuteurID) et Activité (TuteurID)	Nouvelle liaison entre les fichiers Tuteur (TuteurID) et Activité (TuteurID)
